@@ -6,6 +6,9 @@ on:
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+filename:
+    description: Output path
+    default: metrics.svg
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
