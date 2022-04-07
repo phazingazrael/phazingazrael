@@ -1,5 +1,7 @@
-- 🔭 I’m currently working on my Lexiconica Repository.
-- 🌱 I’m currently learning React
+> 🔭 I’m currently working on my Lexiconica Repository.
+
+>🌱 I’m currently learning React
+
 ![Metrics](/github-metrics.svg)
 
 <!--
