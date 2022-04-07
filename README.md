@@ -1,4 +1,6 @@
-### Hi there 👋
+- 🔭 I’m currently working on my Lexiconica Repository.
+- 🌱 I’m currently learning React
+![Metrics](/github-metrics.svg)
 
 <!--
 **phazingazrael/phazingazrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
