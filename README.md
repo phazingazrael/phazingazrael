@@ -1,9 +1,12 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=phazingazrael&show_icons=true&theme=omni)](https://github.com/phazingazrael/)
-
-
 > 🔭 I’m currently working on my Lexiconica Repository.
 
 >🌱 I’m currently learning React
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phazingazrael&show_icons=true&theme=omni)](https://github.com/phazingazrael/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=phazingazrael&show_icons=true&theme=omni)](https://github.com/phazingazrael/)
+
 
 ![Metrics](/github-metrics.svg)
 
