@@ -1,4 +1,4 @@
-> 🔭 I’m currently working on my Lexiconica Repository.
+> 🔭 I’m currently working on my Terra-Logger Repository.
 
 >🌱 I’m currently learning React
 
