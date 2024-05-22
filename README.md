@@ -2,10 +2,12 @@
 
 >🌱 I’m currently learning React
 
+>💬 Ask me about any of my repositories
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phazingazrael&show_icons=true&theme=omni)](https://github.com/phazingazrael/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=phazingazrael&show_icons=true&theme=omni)](https://github.com/phazingazrael/)
+[![Phazingazrael's GitHub stats](https://github-readme-stats.vercel.app/api?username=phazingazrael&show_icons=true&theme=omni)](https://github.com/phazingazrael/)
+
+[![Phazingazrael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=phazingazrael&show_icons=true&theme=omni)](https://github.com/phazingazrael/)
 
 
 ![Metrics](/github-metrics.svg)
